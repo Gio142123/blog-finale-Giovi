@@ -1,4 +1,4 @@
-# blog-finale-Giovi # 📝 Blog Multiutente – `blog-finale`
+# blog-finale-Giovi #  Blog Multiutente – `blog-finale`
 
 Un'applicazione backend per la gestione di un **blog multiutente** con funzionalità di:
 - Registrazione/Login
@@ -10,7 +10,7 @@ Un'applicazione backend per la gestione di un **blog multiutente** con funzional
 
 ---
 
-## 🚀 Tecnologie utilizzate
+##  Tecnologie utilizzate
 
 - Node.js
 - Express.js
@@ -22,13 +22,13 @@ Un'applicazione backend per la gestione di un **blog multiutente** con funzional
 
 ---
 
-## 🔧 Installazione
+## Installazione
 
 Clona il repository e installa le dipendenze:
 
 ```bash
-git clone 
-cd blog-finale
+git clone  [
+](https://github.com/Gio142123/blog-finale-Giovi.git)cd blog-finale
 npm install
 ```
 
@@ -42,7 +42,7 @@ JWT_SECRET=supersegreto
 
 ---
 
-## ▶️ Avvio in locale
+## Avvio in locale
 
 ```bash
 npm run dev
@@ -50,7 +50,7 @@ npm run dev
 
 ---
 
-## 🧪 Esecuzione test
+##  Esecuzione test
 
 Crea anche un `.env.test` (con un database separato):
 
@@ -67,7 +67,7 @@ npm test
 
 ---
 
-## 📚 API principali
+##  API principali
 
 | Metodo | Endpoint               | Descrizione                     |
 |--------|------------------------|---------------------------------|
@@ -83,7 +83,7 @@ npm test
 
 ---
 
-## 🧩 Struttura cartelle
+## Struttura cartelle
 
 ```
 blog-finale/
@@ -101,12 +101,7 @@ blog-finale/
 
 ## 📌 Autore
 
-Progetto sviluppato da [Tuo Nome] durante il corso *Junior Full Stack Developer* – TNV Academy (2024/2025).
+Progetto sviluppato da GIOVANNA durante il corso *Junior Full Stack Developer* – TNV Academy (2024/2025).
 
 ---
 
-## ✅ TODO
-
-- [ ] Refactoring codice
-- [ ] Deployment (facoltativo)
-- [ ] Aggiunta documentazione API (es. Swagger)
